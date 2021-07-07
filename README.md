@@ -1,1 +1,1 @@
-# 026-pro
+# Project Template 26
